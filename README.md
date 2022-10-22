@@ -1,6 +1,6 @@
 <h1> Oi ! Eu sou a Ranya Campanario <h1>
 
--  🎓 Cursando sistemas de informação
+-  🎓 Cursando Sistemas de Informação
 -  📚 Estudando HTML, CSS, Java Script, C e MySQL 
 -  👩🏽‍💻 Atualmente em busca de estágio 
 -  👩🏽 Pronouns: Ela/Dela
