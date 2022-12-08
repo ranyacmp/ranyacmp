@@ -1,9 +1,8 @@
 <h1> Oi ! Eu sou a Ranya Campanario <h1>
 
 -  🎓 Cursando Sistemas de Informação
--  📚 Estudando HTML, CSS, Java Script, C e MySQL 
--  👩🏽‍💻 Atualmente em busca de estágio 
--  👩🏽 Pronouns: Ela/Dela
+-  📚 HTML, CSS, Java Script, C, MySQL, Git e Github avançado
+-  👩🏽‍💻 Procurando estágio
 #
 <div align="center">
   <a href="https://github.com/ranyacmp">
