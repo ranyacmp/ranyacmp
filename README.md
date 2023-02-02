@@ -2,7 +2,6 @@
 
 -  🎓 Cursando Sistemas de Informação
 -  📚 HTML, CSS, Java Script, C, MySQL, Git e Github avançado
--  👩🏽‍💻 Procurando estágio
 #
 <div align="center">
   <a href="https://github.com/ranyacmp">
